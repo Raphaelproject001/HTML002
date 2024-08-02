@@ -1,5 +1,5 @@
- mkdir ibge-clone
-cd ibge-clone
+ mkdir 
+cd 
 npm init -y
 npm install express sequelize pg pg-hstore body-parser cors
 
